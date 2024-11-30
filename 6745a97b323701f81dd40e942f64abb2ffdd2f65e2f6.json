@@ -11,9 +11,9 @@
                     "policy_content": "QGlkKCJBbGxvd3Mgc3RhZmYgdG8gY3JlYXRlL21hbmFnZSBhbnkgb2YgcmVzb3VyY2VzOiBUaWNrZXQsIFByb2R1Y3QsIE1lZXRpbmciKQpwZXJtaXQocHJpbmNpcGFsIGluIGFnYW1hVGVzdFBvbGljeVR3bzo6Um9sZTo6IlN0YWZmIiwgYWN0aW9uID09IGFnYW1hVGVzdFBvbGljeVR3bzo6QWN0aW9uOjoiV3JpdGUiLCByZXNvdXJjZSk7"
                 },
                 "9b07885e88d851c2461d2491dfff1339b28ff8ec2a77": {
-                    "description": "",
+                    "description": "Allow Customer to create new tickets",
                     "creation_date": "2024-11-30T16:19:43.156692",
-                    "policy_content": "QGlkKCIiKQpwZXJtaXQocHJpbmNpcGFsIGluIGFnYW1hVGVzdFBvbGljeVR3bzo6Um9sZTo6IkN1c3RvbWVyIiwgYWN0aW9uIGluIGFnYW1hVGVzdFBvbGljeVR3bzo6QWN0aW9uOjoiV3JpdGUiLCByZXNvdXJjZSBpbiBhZ2FtYVRlc3RQb2xpY3lUd286OlRpY2tldDo6InVua25vd24iKSB3aGVuIHsgcmVzb3VyY2UgaGFzICJ0aWNrZXROYW1lIiB9Ow=="
+                    "policy_content": "QGlkKCJBbGxvdyBDdXN0b21lciB0byBjcmVhdGUgbmV3IHRpY2tldHMiKQpwZXJtaXQocHJpbmNpcGFsIGluIGFnYW1hVGVzdFBvbGljeVR3bzo6Um9sZTo6IkN1c3RvbWVyIiwgYWN0aW9uIGluIGFnYW1hVGVzdFBvbGljeVR3bzo6QWN0aW9uOjoiV3JpdGUiLCByZXNvdXJjZSBpbiBhZ2FtYVRlc3RQb2xpY3lUd286OlRpY2tldDo6InVua25vd24iKSB3aGVuIHsgcmVzb3VyY2UgaGFzICJ0aWNrZXROYW1lIiB9Ow=="
                 }
             },
             "trusted_issuers": {},
