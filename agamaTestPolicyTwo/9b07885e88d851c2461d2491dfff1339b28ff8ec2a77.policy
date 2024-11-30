@@ -1,0 +1,2 @@
+@id("")
+permit(principal in agamaTestPolicyTwo::Role::"Customer", action in agamaTestPolicyTwo::Action::"Write", resource in agamaTestPolicyTwo::Ticket::"unknown") when { resource has "ticketName" };
