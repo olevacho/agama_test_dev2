@@ -292,6 +292,27 @@
 				}
 			},
 			"Role": {},
+			"Ticket": {
+				"shape": {
+					"type": "Record",
+					"attributes": {
+						"author": {
+							"type": "EntityOrCommon",
+							"required": false,
+							"name": "String"
+						},
+						"organization": {
+							"type": "EntityOrCommon",
+							"required": false,
+							"name": "String"
+						},
+						"ticketName": {
+							"type": "EntityOrCommon",
+							"name": "String"
+						}
+					}
+				}
+			},
 			"TrustedIssuer": {
 				"shape": {
 					"type": "Record",
@@ -421,6 +442,7 @@
 						},
 						"iss": {
 							"type": "EntityOrCommon",
+							"required": false,
 							"name": "TrustedIssuer"
 						},
 						"name": {
@@ -436,27 +458,6 @@
 						"spiffe_id": {
 							"type": "EntityOrCommon",
 							"required": false,
-							"name": "String"
-						}
-					}
-				}
-			},
-			"Ticket": {
-				"shape": {
-					"type": "Record",
-					"attributes": {
-						"author": {
-							"type": "EntityOrCommon",
-							"required": false,
-							"name": "String"
-						},
-						"organization": {
-							"type": "EntityOrCommon",
-							"required": false,
-							"name": "String"
-						},
-						"ticketName": {
-							"type": "EntityOrCommon",
 							"name": "String"
 						}
 					}
