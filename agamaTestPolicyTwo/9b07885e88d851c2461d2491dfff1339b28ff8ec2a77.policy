@@ -1,2 +1,2 @@
 @id("Allow Customer to create new tickets")
-permit(principal in agamaTestPolicyTwo::Role::"Customer", action in agamaTestPolicyTwo::Action::"Write", resource in agamaTestPolicyTwo::Ticket::"unknown") when { resource has "ticketName" };
+permit(principal in agamaTestPolicyTwo::Role::"Customer", action in agamaTestPolicyTwo::Action::"Write", resource in agamaTestPolicyTwo::Ticket::"unknown") when { resource is agamaTestPolicyTwo::Ticket };
