@@ -292,27 +292,6 @@
 				}
 			},
 			"Role": {},
-			"Ticket": {
-				"shape": {
-					"type": "Record",
-					"attributes": {
-						"author": {
-							"type": "EntityOrCommon",
-							"required": false,
-							"name": "String"
-						},
-						"organization": {
-							"type": "EntityOrCommon",
-							"required": false,
-							"name": "Organization"
-						},
-						"ticketName": {
-							"type": "EntityOrCommon",
-							"name": "String"
-						}
-					}
-				}
-			},
 			"TrustedIssuer": {
 				"shape": {
 					"type": "Record",
@@ -323,6 +302,53 @@
 						}
 					}
 				}
+			},
+			"User": {
+				"shape": {
+					"type": "Record",
+					"attributes": {
+						"email": {
+							"type": "EntityOrCommon",
+							"name": "String"
+						},
+						"phone_number": {
+							"type": "EntityOrCommon",
+							"required": false,
+							"name": "String"
+						},
+						"role": {
+							"type": "Set",
+							"element": {
+								"type": "String"
+							}
+						},
+						"sub": {
+							"type": "EntityOrCommon",
+							"required": false,
+							"name": "String"
+						},
+						"username": {
+							"type": "EntityOrCommon",
+							"required": false,
+							"name": "String"
+						},
+						"organization": {
+							"type": "EntityOrCommon",
+							"required": false,
+							"name": "String"
+						},
+						"supportedOrganizations": {
+							"type": "Set",
+							"required": false,
+							"element": {
+								"type": "String"
+							}
+						}
+					}
+				},
+				"memberOfTypes": [
+					"Role"
+				]
 			},
 			"Userinfo_token": {
 				"shape": {
@@ -415,31 +441,11 @@
 					}
 				}
 			},
-			"User": {
+			"Ticket": {
 				"shape": {
 					"type": "Record",
 					"attributes": {
-						"email": {
-							"type": "EntityOrCommon",
-							"name": "String"
-						},
-						"phone_number": {
-							"type": "EntityOrCommon",
-							"required": false,
-							"name": "String"
-						},
-						"role": {
-							"type": "Set",
-							"element": {
-								"type": "String"
-							}
-						},
-						"sub": {
-							"type": "EntityOrCommon",
-							"required": false,
-							"name": "String"
-						},
-						"username": {
+						"author": {
 							"type": "EntityOrCommon",
 							"required": false,
 							"name": "String"
@@ -449,18 +455,12 @@
 							"required": false,
 							"name": "String"
 						},
-						"supportedOrganizations": {
-							"type": "Set",
-							"required": false,
-							"element": {
-								"type": "String"
-							}
+						"ticketName": {
+							"type": "EntityOrCommon",
+							"name": "String"
 						}
 					}
-				},
-				"memberOfTypes": [
-					"Role"
-				]
+				}
 			}
 		},
 		"actions": {
