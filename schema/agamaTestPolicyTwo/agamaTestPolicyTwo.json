@@ -324,53 +324,6 @@
 					}
 				}
 			},
-			"User": {
-				"shape": {
-					"type": "Record",
-					"attributes": {
-						"email": {
-							"type": "EntityOrCommon",
-							"name": "String"
-						},
-						"phone_number": {
-							"type": "EntityOrCommon",
-							"required": false,
-							"name": "String"
-						},
-						"role": {
-							"type": "Set",
-							"element": {
-								"type": "String"
-							}
-						},
-						"sub": {
-							"type": "EntityOrCommon",
-							"required": false,
-							"name": "String"
-						},
-						"username": {
-							"type": "EntityOrCommon",
-							"required": false,
-							"name": "String"
-						},
-						"organization": {
-							"type": "EntityOrCommon",
-							"required": false,
-							"name": "String"
-						},
-						"supportedOrganizations": {
-							"type": "Set",
-							"required": false,
-							"element": {
-								"type": "String"
-							}
-						}
-					}
-				},
-				"memberOfTypes": [
-					"Role"
-				]
-			},
 			"Userinfo_token": {
 				"shape": {
 					"type": "Record",
@@ -462,6 +415,49 @@
 						}
 					}
 				}
+			},
+			"User": {
+				"shape": {
+					"type": "Record",
+					"attributes": {
+						"phone_number": {
+							"type": "EntityOrCommon",
+							"required": false,
+							"name": "String"
+						},
+						"role": {
+							"type": "Set",
+							"element": {
+								"type": "String"
+							}
+						},
+						"sub": {
+							"type": "EntityOrCommon",
+							"required": false,
+							"name": "String"
+						},
+						"username": {
+							"type": "EntityOrCommon",
+							"required": false,
+							"name": "String"
+						},
+						"organization": {
+							"type": "EntityOrCommon",
+							"required": false,
+							"name": "String"
+						},
+						"supportedOrganizations": {
+							"type": "Set",
+							"required": false,
+							"element": {
+								"type": "String"
+							}
+						}
+					}
+				},
+				"memberOfTypes": [
+					"Role"
+				]
 			}
 		},
 		"actions": {
