@@ -1,2 +1,2 @@
 @id("Allows staff to create/manage any of resources: Ticket, Product, Meeting")
-permit(principal in agamaTestPolicyTwo::Role::"Staff", action == agamaTestPolicyTwo::Action::"Write", resource);
+permit(principal is agamaTestPolicyTwo::User in agamaTestPolicyTwo::Role::"Staff", action in [agamaTestPolicyTwo::Action::"Write", agamaTestPolicyTwo::Action::"Close", agamaTestPolicyTwo::Action::"Reply", agamaTestPolicyTwo::Action::"Read"], resource);

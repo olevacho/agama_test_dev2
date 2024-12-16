@@ -1,0 +1,2 @@
+@id("Allow anyone to  reply, close, edit, view tickets associated with their organization")
+permit(principal is agamaTestPolicyTwo::User, action in [agamaTestPolicyTwo::Action::"Close", agamaTestPolicyTwo::Action::"Read", agamaTestPolicyTwo::Action::"Reply"], resource is agamaTestPolicyTwo::Ticket) when { (resource has "organization") && ((principal["organization"]) == (resource["organization"])) };

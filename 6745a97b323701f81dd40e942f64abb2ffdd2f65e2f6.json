@@ -8,7 +8,22 @@
                 "fc6cad01cc92f51c02c3be29d5554d02ab8994b6c891": {
                     "description": "Allows staff to create/manage any of resources: Ticket, Product, Meeting",
                     "creation_date": "2024-11-29T17:01:41.949289",
-                    "policy_content": "QGlkKCJBbGxvd3Mgc3RhZmYgdG8gY3JlYXRlL21hbmFnZSBhbnkgb2YgcmVzb3VyY2VzOiBUaWNrZXQsIFByb2R1Y3QsIE1lZXRpbmciKQpwZXJtaXQocHJpbmNpcGFsIGluIGFnYW1hVGVzdFBvbGljeVR3bzo6Um9sZTo6IlN0YWZmIiwgYWN0aW9uID09IGFnYW1hVGVzdFBvbGljeVR3bzo6QWN0aW9uOjoiV3JpdGUiLCByZXNvdXJjZSk7"
+                    "policy_content": "QGlkKCJBbGxvd3Mgc3RhZmYgdG8gY3JlYXRlL21hbmFnZSBhbnkgb2YgcmVzb3VyY2VzOiBUaWNrZXQsIFByb2R1Y3QsIE1lZXRpbmciKQpwZXJtaXQocHJpbmNpcGFsIGlzIGFnYW1hVGVzdFBvbGljeVR3bzo6VXNlciBpbiBhZ2FtYVRlc3RQb2xpY3lUd286OlJvbGU6OiJTdGFmZiIsIGFjdGlvbiBpbiBbYWdhbWFUZXN0UG9saWN5VHdvOjpBY3Rpb246OiJXcml0ZSIsIGFnYW1hVGVzdFBvbGljeVR3bzo6QWN0aW9uOjoiQ2xvc2UiLCBhZ2FtYVRlc3RQb2xpY3lUd286OkFjdGlvbjo6IlJlcGx5IiwgYWdhbWFUZXN0UG9saWN5VHdvOjpBY3Rpb246OiJSZWFkIl0sIHJlc291cmNlKTs="
+                },
+                "9b07885e88d851c2461d2491dfff1339b28ff8ec2a77": {
+                    "description": "Allow Customer to create new tickets",
+                    "creation_date": "2024-11-30T16:19:43.156692",
+                    "policy_content": "QGlkKCJBbGxvdyBDdXN0b21lciB0byBjcmVhdGUgbmV3IHRpY2tldHMiKQpwZXJtaXQocHJpbmNpcGFsIGlzIGFnYW1hVGVzdFBvbGljeVR3bzo6VXNlciBpbiBhZ2FtYVRlc3RQb2xpY3lUd286OlJvbGU6OiJDdXN0b21lciIsIGFjdGlvbiBpbiBhZ2FtYVRlc3RQb2xpY3lUd286OkFjdGlvbjo6IldyaXRlIiwgcmVzb3VyY2UgaW4gYWdhbWFUZXN0UG9saWN5VHdvOjpUaWNrZXQ6OiJ1bmtub3duIikgd2hlbiB7IHJlc291cmNlIGlzIGFnYW1hVGVzdFBvbGljeVR3bzo6VGlja2V0IH07"
+                },
+                "056bd6a34ccc116125a2d6a8912d098d8fab177ed84c": {
+                    "description": "Allow anyone to  reply, close, edit, view tickets associated with their organization",
+                    "creation_date": "2024-12-16T06:33:53.331435",
+                    "policy_content": "QGlkKCJBbGxvdyBhbnlvbmUgdG8gIHJlcGx5LCBjbG9zZSwgZWRpdCwgdmlldyB0aWNrZXRzIGFzc29jaWF0ZWQgd2l0aCB0aGVpciBvcmdhbml6YXRpb24iKQpwZXJtaXQocHJpbmNpcGFsIGlzIGFnYW1hVGVzdFBvbGljeVR3bzo6VXNlciwgYWN0aW9uIGluIFthZ2FtYVRlc3RQb2xpY3lUd286OkFjdGlvbjo6IkNsb3NlIiwgYWdhbWFUZXN0UG9saWN5VHdvOjpBY3Rpb246OiJSZWFkIiwgYWdhbWFUZXN0UG9saWN5VHdvOjpBY3Rpb246OiJSZXBseSJdLCByZXNvdXJjZSBpcyBhZ2FtYVRlc3RQb2xpY3lUd286OlRpY2tldCkgd2hlbiB7IChyZXNvdXJjZSBoYXMgIm9yZ2FuaXphdGlvbiIpICYmICgocHJpbmNpcGFsWyJvcmdhbml6YXRpb24iXSkgPT0gKHJlc291cmNlWyJvcmdhbml6YXRpb24iXSkpIH07"
+                },
+                "4ad8e9eb75fbde4178ba193b00a44dda41582a9da272": {
+                    "description": "Allow partners to manage any ticket of their supported organizations",
+                    "creation_date": "2024-12-16T07:05:12.502462",
+                    "policy_content": "QGlkKCJBbGxvdyBwYXJ0bmVycyB0byBtYW5hZ2UgYW55IHRpY2tldCBvZiB0aGVpciBzdXBwb3J0ZWQgb3JnYW5pemF0aW9ucyIpCnBlcm1pdChwcmluY2lwYWwgaXMgYWdhbWFUZXN0UG9saWN5VHdvOjpVc2VyIGluIGFnYW1hVGVzdFBvbGljeVR3bzo6Um9sZTo6IlBhcnRuZXIiLCBhY3Rpb24gaW4gW2FnYW1hVGVzdFBvbGljeVR3bzo6QWN0aW9uOjoiQ2xvc2UiLCBhZ2FtYVRlc3RQb2xpY3lUd286OkFjdGlvbjo6IlJlYWQiLCBhZ2FtYVRlc3RQb2xpY3lUd286OkFjdGlvbjo6IldyaXRlIiwgYWdhbWFUZXN0UG9saWN5VHdvOjpBY3Rpb246OiJSZXBseSJdLCByZXNvdXJjZSBpcyBhZ2FtYVRlc3RQb2xpY3lUd286OlRpY2tldCkgd2hlbiB7IChwcmluY2lwYWwgaGFzICJzdXBwb3J0ZWRPcmdhbml6YXRpb25zIikgJiYgKChwcmluY2lwYWxbInN1cHBvcnRlZE9yZ2FuaXphdGlvbnMiXSkuY29udGFpbnMocmVzb3VyY2VbIm9yZ2FuaXphdGlvbiJdKSkgfTs="
                 }
             },
             "trusted_issuers": {},
