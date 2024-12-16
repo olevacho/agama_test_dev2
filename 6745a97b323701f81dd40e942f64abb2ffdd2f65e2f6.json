@@ -18,7 +18,7 @@
                 "056bd6a34ccc116125a2d6a8912d098d8fab177ed84c": {
                     "description": "Allow anyone to  reply, close, edit, view tickets associated with their organization",
                     "creation_date": "2024-12-16T06:33:53.331435",
-                    "policy_content": "QGlkKCJBbGxvdyBhbnlvbmUgdG8gIHJlcGx5LCBjbG9zZSwgZWRpdCwgdmlldyB0aWNrZXRzIGFzc29jaWF0ZWQgd2l0aCB0aGVpciBvcmdhbml6YXRpb24iKQpwZXJtaXQocHJpbmNpcGFsLCBhY3Rpb24gaW4gW2FnYW1hVGVzdFBvbGljeVR3bzo6QWN0aW9uOjoiQ2xvc2UiLCBhZ2FtYVRlc3RQb2xpY3lUd286OkFjdGlvbjo6IlJlYWQiLCBhZ2FtYVRlc3RQb2xpY3lUd286OkFjdGlvbjo6IlJlcGx5Il0sIHJlc291cmNlIGlzIGFnYW1hVGVzdFBvbGljeVR3bzo6VGlja2V0KSB3aGVuIHsgKHJlc291cmNlIGlzIGFnYW1hVGVzdFBvbGljeVR3bzo6VGlja2V0KSAmJiAoKHByaW5jaXBhbCBoYXMgInN1cHBvcnRlZE9yZ2FuaXphdGlvbnMiKSAmJiAoKHByaW5jaXBhbFsic3VwcG9ydGVkT3JnYW5pemF0aW9ucyJdKS5jb250YWlucyhyZXNvdXJjZVsib3JnYW5pemF0aW9uIl0pKSkgfTs="
+                    "policy_content": "QGlkKCJBbGxvdyBhbnlvbmUgdG8gIHJlcGx5LCBjbG9zZSwgZWRpdCwgdmlldyB0aWNrZXRzIGFzc29jaWF0ZWQgd2l0aCB0aGVpciBvcmdhbml6YXRpb24iKQpwZXJtaXQocHJpbmNpcGFsLCBhY3Rpb24gaW4gW2FnYW1hVGVzdFBvbGljeVR3bzo6QWN0aW9uOjoiQ2xvc2UiLCBhZ2FtYVRlc3RQb2xpY3lUd286OkFjdGlvbjo6IlJlYWQiLCBhZ2FtYVRlc3RQb2xpY3lUd286OkFjdGlvbjo6IlJlcGx5Il0sIHJlc291cmNlIGlzIGFnYW1hVGVzdFBvbGljeVR3bzo6VGlja2V0KSB3aGVuIHsgKHJlc291cmNlIGhhcyAib3JnYW5pemF0aW9uIikgJiYgKChwcmluY2lwYWxbIm9yZ2FuaXphdGlvbiJdKSA9PSAocmVzb3VyY2VbIm9yZ2FuaXphdGlvbiJdKSkgfTs="
                 }
             },
             "trusted_issuers": {},
