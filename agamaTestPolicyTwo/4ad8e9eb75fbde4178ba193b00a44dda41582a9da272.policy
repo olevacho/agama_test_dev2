@@ -1,0 +1,2 @@
+@id("")
+permit(principal is agamaTestPolicyTwo::User in agamaTestPolicyTwo::Role::"Partner", action in [agamaTestPolicyTwo::Action::"Close", agamaTestPolicyTwo::Action::"Read", agamaTestPolicyTwo::Action::"Write", agamaTestPolicyTwo::Action::"Reply"], resource is agamaTestPolicyTwo::Ticket) when { (principal has "supportedOrganizations") && ((principal["supportedOrganizations"]).contains(resource["organization"])) };
