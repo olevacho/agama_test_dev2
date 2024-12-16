@@ -13,7 +13,7 @@
                 "9b07885e88d851c2461d2491dfff1339b28ff8ec2a77": {
                     "description": "Allow Customer to create new tickets",
                     "creation_date": "2024-11-30T16:19:43.156692",
-                    "policy_content": "QGlkKCJBbGxvdyBDdXN0b21lciB0byBjcmVhdGUgbmV3IHRpY2tldHMiKQpwZXJtaXQocHJpbmNpcGFsIGluIGFnYW1hVGVzdFBvbGljeVR3bzo6Um9sZTo6IkN1c3RvbWVyIiwgYWN0aW9uIGluIGFnYW1hVGVzdFBvbGljeVR3bzo6QWN0aW9uOjoiV3JpdGUiLCByZXNvdXJjZSBpbiBhZ2FtYVRlc3RQb2xpY3lUd286OlRpY2tldDo6InVua25vd24iKSB3aGVuIHsgcmVzb3VyY2UgaXMgYWdhbWFUZXN0UG9saWN5VHdvOjpUaWNrZXQgfTs="
+                    "policy_content": "QGlkKCJBbGxvdyBDdXN0b21lciB0byBjcmVhdGUgbmV3IHRpY2tldHMiKQpwZXJtaXQocHJpbmNpcGFsIGlzIGFnYW1hVGVzdFBvbGljeVR3bzo6VXNlciBpbiBhZ2FtYVRlc3RQb2xpY3lUd286OlJvbGU6OiJDdXN0b21lciIsIGFjdGlvbiBpbiBhZ2FtYVRlc3RQb2xpY3lUd286OkFjdGlvbjo6IldyaXRlIiwgcmVzb3VyY2UgaW4gYWdhbWFUZXN0UG9saWN5VHdvOjpUaWNrZXQ6OiJ1bmtub3duIikgd2hlbiB7IHJlc291cmNlIGlzIGFnYW1hVGVzdFBvbGljeVR3bzo6VGlja2V0IH07"
                 },
                 "056bd6a34ccc116125a2d6a8912d098d8fab177ed84c": {
                     "description": "Allow anyone to  reply, close, edit, view tickets associated with their organization",
