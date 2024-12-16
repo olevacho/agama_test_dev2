@@ -19,6 +19,11 @@
                     "description": "Allow anyone to  reply, close, edit, view tickets associated with their organization",
                     "creation_date": "2024-12-16T06:33:53.331435",
                     "policy_content": "QGlkKCJBbGxvdyBhbnlvbmUgdG8gIHJlcGx5LCBjbG9zZSwgZWRpdCwgdmlldyB0aWNrZXRzIGFzc29jaWF0ZWQgd2l0aCB0aGVpciBvcmdhbml6YXRpb24iKQpwZXJtaXQocHJpbmNpcGFsIGlzIGFnYW1hVGVzdFBvbGljeVR3bzo6VXNlciwgYWN0aW9uIGluIFthZ2FtYVRlc3RQb2xpY3lUd286OkFjdGlvbjo6IkNsb3NlIiwgYWdhbWFUZXN0UG9saWN5VHdvOjpBY3Rpb246OiJSZWFkIiwgYWdhbWFUZXN0UG9saWN5VHdvOjpBY3Rpb246OiJSZXBseSJdLCByZXNvdXJjZSBpcyBhZ2FtYVRlc3RQb2xpY3lUd286OlRpY2tldCkgd2hlbiB7IChyZXNvdXJjZSBoYXMgIm9yZ2FuaXphdGlvbiIpICYmICgocHJpbmNpcGFsWyJvcmdhbml6YXRpb24iXSkgPT0gKHJlc291cmNlWyJvcmdhbml6YXRpb24iXSkpIH07"
+                },
+                "4ad8e9eb75fbde4178ba193b00a44dda41582a9da272": {
+                    "description": "",
+                    "creation_date": "2024-12-16T07:05:12.502462",
+                    "policy_content": "QGlkKCIiKQpwZXJtaXQocHJpbmNpcGFsIGlzIGFnYW1hVGVzdFBvbGljeVR3bzo6VXNlciBpbiBhZ2FtYVRlc3RQb2xpY3lUd286OlJvbGU6OiJQYXJ0bmVyIiwgYWN0aW9uIGluIFthZ2FtYVRlc3RQb2xpY3lUd286OkFjdGlvbjo6IkNsb3NlIiwgYWdhbWFUZXN0UG9saWN5VHdvOjpBY3Rpb246OiJSZWFkIiwgYWdhbWFUZXN0UG9saWN5VHdvOjpBY3Rpb246OiJXcml0ZSIsIGFnYW1hVGVzdFBvbGljeVR3bzo6QWN0aW9uOjoiUmVwbHkiXSwgcmVzb3VyY2UgaXMgYWdhbWFUZXN0UG9saWN5VHdvOjpUaWNrZXQpIHdoZW4geyAocHJpbmNpcGFsIGhhcyAic3VwcG9ydGVkT3JnYW5pemF0aW9ucyIpICYmICgocHJpbmNpcGFsWyJzdXBwb3J0ZWRPcmdhbml6YXRpb25zIl0pLmNvbnRhaW5zKHJlc291cmNlWyJvcmdhbml6YXRpb24iXSkpIH07"
                 }
             },
             "trusted_issuers": {},
