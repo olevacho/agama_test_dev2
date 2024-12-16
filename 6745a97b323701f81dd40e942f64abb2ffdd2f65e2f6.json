@@ -8,7 +8,7 @@
                 "fc6cad01cc92f51c02c3be29d5554d02ab8994b6c891": {
                     "description": "Allows staff to create/manage any of resources: Ticket, Product, Meeting",
                     "creation_date": "2024-11-29T17:01:41.949289",
-                    "policy_content": "QGlkKCJBbGxvd3Mgc3RhZmYgdG8gY3JlYXRlL21hbmFnZSBhbnkgb2YgcmVzb3VyY2VzOiBUaWNrZXQsIFByb2R1Y3QsIE1lZXRpbmciKQpwZXJtaXQocHJpbmNpcGFsIGluIGFnYW1hVGVzdFBvbGljeVR3bzo6Um9sZTo6IlN0YWZmIiwgYWN0aW9uIGluIFthZ2FtYVRlc3RQb2xpY3lUd286OkFjdGlvbjo6IldyaXRlIiwgYWdhbWFUZXN0UG9saWN5VHdvOjpBY3Rpb246OiJDbG9zZSIsIGFnYW1hVGVzdFBvbGljeVR3bzo6QWN0aW9uOjoiUmVwbHkiXSwgcmVzb3VyY2UpOw=="
+                    "policy_content": "QGlkKCJBbGxvd3Mgc3RhZmYgdG8gY3JlYXRlL21hbmFnZSBhbnkgb2YgcmVzb3VyY2VzOiBUaWNrZXQsIFByb2R1Y3QsIE1lZXRpbmciKQpwZXJtaXQocHJpbmNpcGFsIGluIGFnYW1hVGVzdFBvbGljeVR3bzo6Um9sZTo6IlN0YWZmIiwgYWN0aW9uIGluIFthZ2FtYVRlc3RQb2xpY3lUd286OkFjdGlvbjo6IldyaXRlIiwgYWdhbWFUZXN0UG9saWN5VHdvOjpBY3Rpb246OiJDbG9zZSIsIGFnYW1hVGVzdFBvbGljeVR3bzo6QWN0aW9uOjoiUmVwbHkiLCBhZ2FtYVRlc3RQb2xpY3lUd286OkFjdGlvbjo6IlJlYWQiXSwgcmVzb3VyY2UpOw=="
                 },
                 "9b07885e88d851c2461d2491dfff1339b28ff8ec2a77": {
                     "description": "Allow Customer to create new tickets",
