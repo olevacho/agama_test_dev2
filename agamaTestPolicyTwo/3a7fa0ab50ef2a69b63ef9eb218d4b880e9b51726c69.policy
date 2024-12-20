@@ -1,2 +1,0 @@
-@id("Allow anyone to create tickets belong to their organization")
-permit(principal, action == agamaTestPolicyTwo::Action::"Write", resource in agamaTestPolicyTwo::Ticket::"unknown") when { ((resource has "organization") && (principal has "organization")) && ((principal["organization"]) == (resource["organization"])) };
