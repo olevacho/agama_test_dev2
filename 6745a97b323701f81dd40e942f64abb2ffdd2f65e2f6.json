@@ -28,7 +28,7 @@
                 "3a7fa0ab50ef2a69b63ef9eb218d4b880e9b51726c69": {
                     "description": "Allow anyone to create tickets belong to their organization",
                     "creation_date": "2024-12-18T17:50:40.923654",
-                    "policy_content": "QGlkKCJBbGxvdyBhbnlvbmUgdG8gY3JlYXRlIHRpY2tldHMgYmVsb25nIHRvIHRoZWlyIG9yZ2FuaXphdGlvbiIpCnBlcm1pdChwcmluY2lwYWwsIGFjdGlvbiA9PSBhZ2FtYVRlc3RQb2xpY3lUd286OkFjdGlvbjo6IldyaXRlIiwgcmVzb3VyY2UgaW4gYWdhbWFUZXN0UG9saWN5VHdvOjpUaWNrZXQ6OiJ1bmtub3duIikgd2hlbiB7IChyZXNvdXJjZSBoYXMgIm9yZ2FuaXphdGlvbiIpICYmICgocHJpbmNpcGFsWyJvcmdhbml6YXRpb24iXSkgPT0gKHJlc291cmNlWyJvcmdhbml6YXRpb24iXSkpIH07"
+                    "policy_content": "QGlkKCJBbGxvdyBhbnlvbmUgdG8gY3JlYXRlIHRpY2tldHMgYmVsb25nIHRvIHRoZWlyIG9yZ2FuaXphdGlvbiIpCnBlcm1pdChwcmluY2lwYWwsIGFjdGlvbiA9PSBhZ2FtYVRlc3RQb2xpY3lUd286OkFjdGlvbjo6IldyaXRlIiwgcmVzb3VyY2UgaW4gYWdhbWFUZXN0UG9saWN5VHdvOjpUaWNrZXQ6OiJ1bmtub3duIikgd2hlbiB7ICgocmVzb3VyY2UgaGFzICJvcmdhbml6YXRpb24iKSAmJiAocHJpbmNpcGFsIGhhcyAib3JnYW5pemF0aW9uIikpICYmICgocHJpbmNpcGFsWyJvcmdhbml6YXRpb24iXSkgPT0gKHJlc291cmNlWyJvcmdhbml6YXRpb24iXSkpIH07"
                 }
             },
             "trusted_issuers": {},
